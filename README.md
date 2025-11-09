@@ -15,12 +15,6 @@
 - HTML5
 - CSS3 (Grid, Flexbox, Custom Properties)
 - JavaScript (ES6+)
-- خط Tajawal العربي
 
-## كيفية التشغيل
 
-1. قم بفك ضغط الملفات
-2. افتح ملف `index.html` في متصفحك
-3. أو انشئ موقع على GitHub Pages لاستضافته
 
-## الهيكل
